@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on a web application called **bloma**
 
-- 🌱 I’m currently learning **React, Node.js**
+- 🌱 I’m currently learning: **React, Node.js**
 
 - 📫 Drop me an email if you'd like to connect: **nkosis123@gmail.com**
 
-- 📄 Check out my LinkedIn [https://www.linkedin.com/in/sandile-n-b6ab21213/](https://www.linkedin.com/in/sandile-n-b6ab21213/)
+- 📄 Check out my LinkedIn: [https://www.linkedin.com/in/sandile-n-b6ab21213/](https://www.linkedin.com/in/sandile-n-b6ab21213/)
 
-- ⚡ Fun fact **I code because I want to - not because I can**
+- ⚡ Fun fact: **I code because I want to - not because I can**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
