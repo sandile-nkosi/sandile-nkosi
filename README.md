@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a web application called **bloma**
 
-- 🌱 I’m currently learning **React, Node.js and any other technologies**
+- 🌱 I’m currently learning **React, Node.js**
 
 - 📫 Drop me an email if you'd like to connect: **nkosis123@gmail.com**
 
